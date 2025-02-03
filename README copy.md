@@ -21,7 +21,7 @@ Day 2: This project is an alert system that sends real-time NBA game day score n
 
 
 
----
+
 
 
 ## **Technologies**
